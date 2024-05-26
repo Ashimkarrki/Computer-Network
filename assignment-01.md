@@ -1,4 +1,5 @@
 Screenshot of ifconfig 
+
 ![image](https://github.com/Ashimkarrki/Computer-Network/assets/52632464/910959dc-7be8-495d-8f7a-118dedb977d4)
 
 Ip Address of my device: 192.168.1.89
